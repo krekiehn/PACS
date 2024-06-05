@@ -13,7 +13,7 @@ Develop a (simple, docker based) IT infrastructure to make AI/ML tools (Python, 
      - Put AI to work in healthcare
      - Deployment of AI/ML Tools into clinical enviroment
      - Translation of knowledge into practice
-   - Presentation?
+   - [ ] Presentation?
    - Examples?
      - Which AI/ML Tools?
        - FDA approved?
@@ -27,11 +27,12 @@ Develop a (simple, docker based) IT infrastructure to make AI/ML tools (Python, 
      - [ ] Grundidee
      - [ ] Forschungs PACS nutzen? 
    - [ ] Claus Glüer
-     - [ ]  Grundidee
+     - [ ] Grundidee
      - [ ] Resources?
    - [ ] Markus Both
      - [ ]  Grundidee
      - [ ]  Resources?
+     - [ ]  Hospitating
    - [ ] Olaf Jansen?
      - [ ] Support 
    - [ ] Eren Yilmaz
@@ -55,13 +56,13 @@ Develop a (simple, docker based) IT infrastructure to make AI/ML tools (Python, 
    - talkt to Florian Becker about using "Forschungs PACS"
 
 5. Resources? Money?
- - WTSH / SH KI Sondervermögen
- - BMWi
- - BMBF
- - UKSH Grants?
- - DFG
- - NVidia/MONAI
- - Waterkant Coding Event
+   - WTSH / SH KI Sondervermögen
+   - BMWi
+   - BMBF
+   - UKSH Grants?
+   - DFG
+   - NVidia/MONAI
+   - Waterkant Coding Event
 
 ## Literature
 <details>
