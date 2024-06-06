@@ -56,7 +56,7 @@ Develop a (simple, docker based) IT infrastructure to make AI/ML tools (Python, 
    - talkt to Florian Becker about using "Forschungs PACS"
 
 5. Resources? Money?
-   - WTSH / SH KI Sondervermögen
+   - WTSH / KI.SH / SH KI Sondervermögen
    - BMWi
    - BMBF
    - UKSH Grants?
